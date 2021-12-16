@@ -24,7 +24,7 @@ const services = [
   },
   {
     id: nextId++,
-    name: "Замена аккумулятора",
+    name: "Замена аккумулятора телефона",
     price: 4000,
     content: "Новый на 4000 mAh",
   },
